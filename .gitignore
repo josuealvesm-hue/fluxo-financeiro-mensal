@@ -12,6 +12,9 @@ dist
 dist-ssr
 .output
 .vercel
+.vercel-cli-cache
+.vercel-cli-config
+.vercel-home
 .vinxi
 .tanstack/**
 .nitro
